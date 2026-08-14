@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/MDS-0001/Competetive-programming/tree/master/1791-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/MDS-0001/Competetive-programming/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
