@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MDS-0001/Competetive-programming/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/MDS-0001/Competetive-programming/tree/master/1582-design-browser-history) |
 | [1791-richest-customer-wealth](https://github.com/MDS-0001/Competetive-programming/tree/master/1791-richest-customer-wealth) |
+| [2195-time-needed-to-buy-tickets](https://github.com/MDS-0001/Competetive-programming/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/MDS-0001/Competetive-programming/tree/master/0969-number-of-recent-calls) |
+| [2195-time-needed-to-buy-tickets](https://github.com/MDS-0001/Competetive-programming/tree/master/2195-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/MDS-0001/Competetive-programming/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/MDS-0001/Competetive-programming/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
