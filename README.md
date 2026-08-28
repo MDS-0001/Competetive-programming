@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MDS-0001/Competetive-programming/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/MDS-0001/Competetive-programming/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/MDS-0001/Competetive-programming/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/MDS-0001/Competetive-programming/tree/master/1217-relative-sort-array) |
 | [1582-design-browser-history](https://github.com/MDS-0001/Competetive-programming/tree/master/1582-design-browser-history) |
 | [1791-richest-customer-wealth](https://github.com/MDS-0001/Competetive-programming/tree/master/1791-richest-customer-wealth) |
 | [2195-time-needed-to-buy-tickets](https://github.com/MDS-0001/Competetive-programming/tree/master/2195-time-needed-to-buy-tickets) |
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MDS-0001/Competetive-programming/tree/master/0217-contains-duplicate) |
+| [1217-relative-sort-array](https://github.com/MDS-0001/Competetive-programming/tree/master/1217-relative-sort-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MDS-0001/Competetive-programming/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/MDS-0001/Competetive-programming/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/MDS-0001/Competetive-programming/tree/master/1217-relative-sort-array) |
 ## Matrix
 |  |
 | ------- |
@@ -120,4 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/MDS-0001/Competetive-programming/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/MDS-0001/Competetive-programming/tree/master/1217-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/MDS-0001/Competetive-programming/tree/master/1217-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/MDS-0001/Competetive-programming/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
