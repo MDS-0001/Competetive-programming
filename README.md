@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MDS-0001/Competetive-programming/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MDS-0001/Competetive-programming/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/MDS-0001/Competetive-programming/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/MDS-0001/Competetive-programming/tree/master/0739-daily-temperatures) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MDS-0001/Competetive-programming/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MDS-0001/Competetive-programming/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/MDS-0001/Competetive-programming/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/MDS-0001/Competetive-programming/tree/master/1217-relative-sort-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MDS-0001/Competetive-programming/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/MDS-0001/Competetive-programming/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
